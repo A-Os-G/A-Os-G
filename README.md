@@ -5,11 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-profile)
 ![GitHub followers](https://img.shields.io/github/followers/A-Os-G?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/A-Os-G?style=flat-square)
-
-
-
-
-
+![Visitors](https://komarev.com/ghpvc/?username=A-Os-G&style=flat-square&color=blue)
 
 ### About Me:
 
@@ -30,12 +26,15 @@ const Abdulrahman = {
 }
 ```
 
-
-
 ### Featured Projects
 - [CTF Web Platform Frontend](https://github.com/A-Os-G/CTF_Frontend_React_Website) – A platform to teach cybersecurity through challenges (Frontend).
 - [CTF Web Platform Backend](https://github.com/A-Os-G/CTF_Backend_Springboot_Website) – A platform to teach cybersecurity through challenges (Backend).
 - [E-commerce Project](https://github.com/A-Os-G/AppDevProject) – Camera gear E-commerce website.
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?theme=catppuccin_macchiato&type=horizontal)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
