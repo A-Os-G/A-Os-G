@@ -1,5 +1,6 @@
 
-## Welcome to my GitHub.
+# Welcome to My Github !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+
 [![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:Abdulrahman.o.Turky@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-osama-2b61762b6/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-profile)
@@ -19,7 +20,7 @@ const Abdulrahman = {
    Technologies: {
 
       Frontend: ['HTML', 'CSS', 'React'],
-      Backend: ["Spring Boot'],
+      Backend: ['Spring Boot'],
       Database: ['MySQL'],
       Others: ['Swagger UI', 'Postman']
   }
