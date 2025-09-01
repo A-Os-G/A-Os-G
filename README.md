@@ -17,17 +17,21 @@
 const Abdulrahman = {
 
    Interests: ['Networking', 'Web Development', 'AI'],
-   
+
    SoftSkills: ['Problem Solving', 'Team Collaboration', 'Critical Thinking'],
 
    Technologies: {
-    Frontend: ['HTML', 'CSS', 'React'],
-    Backend: ['Spring Boot'],
-    Database: ['MySQL'],
-    Others: ['Swagger UI', 'Postman']
+
+      Frontend: ['HTML', 'CSS', 'React'],
+      Backend: ['Spring Boot'],
+      Database: ['MySQL'],
+      Others: ['Swagger UI', 'Postman']
   }
 }
 ```
+
+
+
 ### Featured Projects
 - [CTF Web Platform Frontend](https://github.com/A-Os-G/CTF_Frontend_React_Website) – A platform to teach cybersecurity through challenges (Frontend).
 - [CTF Web Platform Backend](https://github.com/A-Os-G/CTF_Backend_Springboot_Website) – A platform to teach cybersecurity through challenges (Backend).
