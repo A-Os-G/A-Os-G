@@ -32,10 +32,6 @@ const Abdulrahman = {
 - [E-commerce Project](https://github.com/A-Os-G/AppDevProject) – Camera gear E-commerce website.
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?theme=catppuccin_macchiato&type=horizontal)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 
 
