@@ -29,10 +29,10 @@ const Abdulrahman = {
 }
 ```
 ### Featured Projects
+- [CTF Web Platform Frontend](https://github.com/A-Os-G/CTF_Frontend_React_Website) – A platform to teach cybersecurity through challenges (Frontend).
+- [CTF Web Platform Backend](https://github.com/A-Os-G/CTF_Backend_Springboot_Website) – A platform to teach cybersecurity through challenges (Backend).
+- [E-commerce Project](https://github.com/A-Os-G/AppDevProject) – Camera gear E-commerce website.
 
-- [CTF Web Platform Frontend]([https://github.com/A-Os-G/CTF-Platform](https://github.com/A-Os-G/CTF_Frontend_React_Website)) – A platform to teach cybersecurity through challenges (Frontend).
-- [CTF Web Platform Backend]([https://github.com/A-Os-G/CTF-Platform](https://github.com/A-Os-G/CTF_Backend_Springboot_Website)) – A platform to teach cybersecurity through challenges ().
-- [Ecommerce]([https://github.com/A-Os-G/AppDev](https://github.com/A-Os-G/AppDevProject)) – Camera gear E-commerce website.
 
 
 
