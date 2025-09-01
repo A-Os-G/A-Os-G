@@ -1,11 +1,10 @@
 <img src=./banner.jpeg>
 
 ## Welcome to my GitHub.
-Blah Blah Balh ...
-# Under Maintance .. ⛔⛔
+
+
 ## Tech Stack:
-  ### Frontend: React.js
-  ### Backend: Spring boot (java).
-  ### Database: MySql.
+<button> <a  href="www.linkedin.com/"><img width="50px" src="./linkedin.png"></img></a></img> </button>
+   
 ## Links:
-<img src=./linkedin.png><a href="linkedin.com"></a></img>
+<a  href="www.linkedin.com/"><img width="50px" src="./linkedin.png"></img></a>
